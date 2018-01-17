@@ -14,7 +14,7 @@ public class Umur {
     public static void main(String[]args){
         Scanner input=new Scanner(System.in);
         
-        System.out.print("Sila masukkan umur anda: ");
+        System.out.print("Sila masukkan umur anda pada tahun 2018: ");
         int umur=input.nextInt();
         
         if (umur<=45){
